@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="2018-0105twoTrie:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts</output-path>
+    <root id="archive" name="indexComms.jar">
+      <element id="module-output" name="indexComms" />
+      <element id="extracted-dir" path="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.10.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.10.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/code/spark/spark-assembly-1.6.0-hadoop2.6.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/code/spark/part_2.10-0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/code/spark/spark-indexedrdd-0.3.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
